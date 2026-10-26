@@ -353,4 +353,4 @@ Developed as a portfolio project to strengthen my practical SQL skills and explo
 - Explored content ratings and release-year trends.
 
 
-## ⁠LinkedIn: [Connect with me professionally](https://www.linkedin.com/in/swati-gupta-15798233b/)
+-⁠LinkedIn: [Connect with me professionally(https://www.linkedin.com/in/swati-gupta-15798233b/)]
